@@ -15,8 +15,8 @@ The *Email Sender Portal* is a web application that provides a seamless platform
 ---
 
 #### *Technologies Used*  
-- *Frontend*: HTML5, CSS3, Bootstrap, JavaScript  
-- *Backend*: PHP, PHPMailer (v6.9)  
+- *Frontend*: HTML5, CSS3, Bootstrap  
+- *Backend*: PHP, JavaScript, PHPMailer (v6.9)  
 - *Server*: XAMPP (Apache, MySQL)  
 
 ---
@@ -24,7 +24,7 @@ The *Email Sender Portal* is a web application that provides a seamless platform
 #### *Installation Instructions*  
 1. Clone the repository:  
    bash
-   git clone <repository-url>
+   git clone https://github.com/Unknownadmin45/Email_Sender_Portal
      
 2. Install and start XAMPP:  
    - Launch Apache and MySQL from the XAMPP Control Panel.  
